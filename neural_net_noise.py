@@ -12,9 +12,6 @@ mnist.data /= 255
 mnist.target = mnist.target.astype(np.int32)
 
 N = 60000
-x_train,x_test = np.split(mnist.data,[N])
-y_train,y_test = np.split(mnist.target,[N])
-N_test = y_test.size
 
 data_num = 28*28
 input_vector_length = data_num
@@ -63,6 +60,13 @@ def make_delta_i(vector,sigma_vector):
     return sig_gain*vector*(1-vector)*sigma_vector
 
 def neural_net(learn_gain,rand_rate):
+    mnist = fetch_mldata('MNIST original')
+    mnist.data = mnist.data.astype(np.float32)
+    mnist.data /= 255
+    mnist.target = mnist.target.astype(np.int32)
+    x_train,x_test = np.split(mnist.data,[N])
+    y_train,y_test = np.split(mnist.target,[N])
+    N_test = y_test.size
     weight_vector1 = rand(input_vector_length,inter_vector1_length)/np.sqrt(input_vector_length)
     weight_vector2 = rand(inter_vector1_length , inter_vector2_length)/np.sqrt(inter_vector1_length)
     weight_vector3 = rand(inter_vector2_length , output_vector_length)/np.sqrt(inter_vector2_length)
@@ -148,5 +152,8 @@ ans = (np.argmax(result) + 1) * 0.01
 print "best rand ratio is " + str(ans)
 print result
 '''
+ans = 0
+for i in range(0,10):
+    ans += neural_net(0.1,0.25)
 
-neural_net(0.1,0.25)
+print ans / 10.0
