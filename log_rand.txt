@@ -1,0 +1,129 @@
+=======================================================
+learning finished
+rand ratio is 0.01
+presition is 95.72 %
+9572
+=======================================================
+learning finished
+rand ratio is 0.02
+presition is 96.75 %
+9675
+=======================================================
+learning finished
+rand ratio is 0.03
+presition is 95.22 %
+9522
+=======================================================
+learning finished
+rand ratio is 0.04
+presition is 92.15 %
+9215
+=======================================================
+learning finished
+rand ratio is 0.05
+presition is 93.0 %
+9300
+=======================================================
+learning finished
+rand ratio is 0.06
+presition is 89.95 %
+8995
+=======================================================
+learning finished
+rand ratio is 0.07
+presition is 89.69 %
+8969
+=======================================================
+learning finished
+rand ratio is 0.08
+presition is 88.11 %
+8811
+=======================================================
+learning finished
+rand ratio is 0.09
+presition is 81.67 %
+8167
+=======================================================
+learning finished
+rand ratio is 0.1
+presition is 83.43 %
+8343
+=======================================================
+learning finished
+rand ratio is 0.11
+presition is 74.64 %
+7464
+=======================================================
+learning finished
+rand ratio is 0.12
+presition is 72.4 %
+7240
+=======================================================
+learning finished
+rand ratio is 0.13
+presition is 65.94 %
+6594
+=======================================================
+learning finished
+rand ratio is 0.14
+presition is 61.76 %
+6176
+=======================================================
+learning finished
+rand ratio is 0.15
+presition is 52.63 %
+5263
+=======================================================
+learning finished
+rand ratio is 0.16
+presition is 52.09 %
+5209
+=======================================================
+learning finished
+rand ratio is 0.17
+presition is 47.49 %
+4749
+=======================================================
+learning finished
+rand ratio is 0.18
+presition is 37.51 %
+3751
+=======================================================
+learning finished
+rand ratio is 0.19
+presition is 29.0 %
+2900
+=======================================================
+learning finished
+rand ratio is 0.2
+presition is 24.33 %
+2433
+=======================================================
+learning finished
+rand ratio is 0.21
+presition is 16.25 %
+1625
+=======================================================
+learning finished
+rand ratio is 0.22
+presition is 12.41 %
+1241
+=======================================================
+learning finished
+rand ratio is 0.23
+presition is 11.35 %
+1135
+=======================================================
+learning finished
+rand ratio is 0.24
+presition is 10.02 %
+1002
+=======================================================
+learning finished
+rand ratio is 0.25
+presition is 9.88 %
+988
+best rand ratio is 0.02
+[ 9572.  9675.  9522.  9215.  9300.  8995.  8969.  8811.  8167.  8343.
+  7464.  7240.  6594.  6176.  5263.  5209.  4749.  3751.  2900.  2433.
+  1625.  1241.  1135.  1002.   988.]

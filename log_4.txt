@@ -1,0 +1,259 @@
+=======================================================
+learning finished
+learn ratio is 0.01
+presition is 29.7 %
+2970
+=======================================================
+learning finished
+learn ratio is 0.02
+presition is 88.97 %
+8897
+=======================================================
+learning finished
+learn ratio is 0.03
+presition is 92.22 %
+9222
+=======================================================
+learning finished
+learn ratio is 0.04
+presition is 92.52 %
+9252
+=======================================================
+learning finished
+learn ratio is 0.05
+presition is 92.78 %
+9278
+=======================================================
+learning finished
+learn ratio is 0.06
+presition is 93.35 %
+9335
+=======================================================
+learning finished
+learn ratio is 0.07
+presition is 94.34 %
+9434
+=======================================================
+learning finished
+learn ratio is 0.08
+presition is 94.25 %
+9425
+=======================================================
+learning finished
+learn ratio is 0.09
+presition is 94.56 %
+9456
+=======================================================
+learning finished
+learn ratio is 0.1
+presition is 94.25 %
+9425
+=======================================================
+learning finished
+learn ratio is 0.11
+presition is 95.11 %
+9511
+=======================================================
+learning finished
+learn ratio is 0.12
+presition is 94.39 %
+9439
+=======================================================
+learning finished
+learn ratio is 0.13
+presition is 94.42 %
+9442
+=======================================================
+learning finished
+learn ratio is 0.14
+presition is 92.42 %
+9242
+=======================================================
+learning finished
+learn ratio is 0.15
+presition is 94.33 %
+9433
+=======================================================
+learning finished
+learn ratio is 0.16
+presition is 93.61 %
+9361
+=======================================================
+learning finished
+learn ratio is 0.17
+presition is 94.43 %
+9443
+=======================================================
+learning finished
+learn ratio is 0.18
+presition is 94.01 %
+9401
+=======================================================
+learning finished
+learn ratio is 0.19
+presition is 93.93 %
+9393
+=======================================================
+learning finished
+learn ratio is 0.2
+presition is 94.02 %
+9402
+=======================================================
+learning finished
+learn ratio is 0.21
+presition is 94.23 %
+9423
+=======================================================
+learning finished
+learn ratio is 0.22
+presition is 91.94 %
+9194
+=======================================================
+learning finished
+learn ratio is 0.23
+presition is 92.87 %
+9287
+=======================================================
+learning finished
+learn ratio is 0.24
+presition is 93.22 %
+9322
+=======================================================
+learning finished
+learn ratio is 0.25
+presition is 94.71 %
+9471
+=======================================================
+learning finished
+learn ratio is 0.26
+presition is 95.17 %
+9517
+=======================================================
+learning finished
+learn ratio is 0.27
+presition is 93.84 %
+9384
+=======================================================
+learning finished
+learn ratio is 0.28
+presition is 94.95 %
+9495
+=======================================================
+learning finished
+learn ratio is 0.29
+presition is 94.34 %
+9434
+=======================================================
+learning finished
+learn ratio is 0.3
+presition is 93.75 %
+9375
+=======================================================
+learning finished
+learn ratio is 0.31
+presition is 93.49 %
+9349
+=======================================================
+learning finished
+learn ratio is 0.32
+presition is 92.67 %
+9267
+=======================================================
+learning finished
+learn ratio is 0.33
+presition is 94.14 %
+9414
+=======================================================
+learning finished
+learn ratio is 0.34
+presition is 94.55 %
+9455
+=======================================================
+learning finished
+learn ratio is 0.35
+presition is 88.94 %
+8894
+=======================================================
+learning finished
+learn ratio is 0.36
+presition is 92.2 %
+9220
+=======================================================
+learning finished
+learn ratio is 0.37
+presition is 93.56 %
+9356
+=======================================================
+learning finished
+learn ratio is 0.38
+presition is 91.11 %
+9111
+=======================================================
+learning finished
+learn ratio is 0.39
+presition is 92.4 %
+9240
+=======================================================
+learning finished
+learn ratio is 0.4
+presition is 91.28 %
+9128
+=======================================================
+learning finished
+learn ratio is 0.41
+presition is 91.71 %
+9171
+=======================================================
+learning finished
+learn ratio is 0.42
+presition is 64.72 %
+6472
+=======================================================
+learning finished
+learn ratio is 0.43
+presition is 88.03 %
+8803
+=======================================================
+learning finished
+learn ratio is 0.44
+presition is 91.0 %
+9100
+=======================================================
+learning finished
+learn ratio is 0.45
+presition is 52.23 %
+5223
+=======================================================
+learning finished
+learn ratio is 0.46
+presition is 89.97 %
+8997
+learning now [81%]neural_net_improve.py:31: RuntimeWarning: overflow encountered in exp
+  return 1.0/(1+np.exp(x*(-1)*sig_gain))
+=======================================================
+learning finished
+learn ratio is 0.47
+presition is 9.95 %
+995
+=======================================================
+learning finished
+learn ratio is 0.48
+presition is 87.17 %
+8717
+=======================================================
+learning finished
+learn ratio is 0.49
+presition is 76.61 %
+7661
+=======================================================
+learning finished
+learn ratio is 0.5
+presition is 9.19 %
+919
+best learn ratio is 0.26
+[ 2970.  8897.  9222.  9252.  9278.  9335.  9434.  9425.  9456.  9425.
+  9511.  9439.  9442.  9242.  9433.  9361.  9443.  9401.  9393.  9402.
+  9423.  9194.  9287.  9322.  9471.  9517.  9384.  9495.  9434.  9375.
+  9349.  9267.  9414.  9455.  8894.  9220.  9356.  9111.  9240.  9128.
+  9171.  6472.  8803.  9100.  5223.  8997.   995.  8717.  7661.   919.]
+mech-user@test1-pc:~/roboint$ 

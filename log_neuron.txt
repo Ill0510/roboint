@@ -1,0 +1,211 @@
+=======================================================
+learning finished
+neuron num is 100
+presition is 96.22 %
+9622
+=======================================================
+learning finished
+neuron num is 110
+presition is 96.44 %
+9644
+=======================================================
+learning finished
+neuron num is 120
+presition is 94.78 %
+9478
+=======================================================
+learning finished
+neuron num is 130
+presition is 96.35 %
+9635
+=======================================================
+learning finished
+neuron num is 140
+presition is 95.88 %
+9588
+=======================================================
+learning finished
+neuron num is 150
+presition is 95.81 %
+9581
+=======================================================
+learning finished
+neuron num is 160
+presition is 96.53 %
+9653
+=======================================================
+learning finished
+neuron num is 170
+presition is 96.25 %
+9625
+=======================================================
+learning finished
+neuron num is 180
+presition is 95.77 %
+9577
+=======================================================
+learning finished
+neuron num is 190
+presition is 96.07 %
+9607
+=======================================================
+learning finished
+neuron num is 200
+presition is 95.39 %
+9539
+=======================================================
+learning finished
+neuron num is 210
+presition is 96.25 %
+9625
+=======================================================
+learning finished
+neuron num is 220
+presition is 96.22 %
+9622
+=======================================================
+learning finished
+neuron num is 230
+presition is 95.67 %
+9567
+=======================================================
+learning finished
+neuron num is 240
+presition is 95.97 %
+9597
+=======================================================
+learning finished
+neuron num is 250
+presition is 96.05 %
+9605
+=======================================================
+learning finished
+neuron num is 260
+presition is 95.24 %
+9524
+=======================================================
+learning finished
+neuron num is 270
+presition is 95.9 %
+9590
+=======================================================
+learning finished
+neuron num is 280
+presition is 96.1 %
+9610
+=======================================================
+learning finished
+neuron num is 290
+presition is 95.54 %
+9554
+=======================================================
+learning finished
+neuron num is 300
+presition is 96.8 %
+9680
+=======================================================
+learning finished
+neuron num is 310
+presition is 96.34 %
+9634
+=======================================================
+learning finished
+neuron num is 320
+presition is 94.28 %
+9428
+=======================================================
+learning finished
+neuron num is 330
+presition is 95.77 %
+9577
+=======================================================
+learning finished
+neuron num is 340
+presition is 94.53 %
+9453
+=======================================================
+learning finished
+neuron num is 350
+presition is 96.19 %
+9619
+=======================================================
+learning finished
+neuron num is 360
+presition is 96.61 %
+9661
+=======================================================
+learning finished
+neuron num is 370
+presition is 95.74 %
+9574
+=======================================================
+learning finished
+neuron num is 380
+presition is 95.95 %
+9595
+=======================================================
+learning finished
+neuron num is 390
+presition is 96.35 %
+9635
+=======================================================
+learning finished
+neuron num is 400
+presition is 95.63 %
+9563
+=======================================================
+learning finished
+neuron num is 410
+presition is 96.22 %
+9622
+=======================================================
+learning finished
+neuron num is 420
+presition is 95.9 %
+9590
+=======================================================
+learning finished
+neuron num is 430
+presition is 96.04 %
+9604
+=======================================================
+learning finished
+neuron num is 440
+presition is 95.6 %
+9560
+=======================================================
+learning finished
+neuron num is 450
+presition is 96.38 %
+9638
+=======================================================
+learning finished
+neuron num is 460
+presition is 96.21 %
+9621
+=======================================================
+learning finished
+neuron num is 470
+presition is 96.23 %
+9623
+=======================================================
+learning finished
+neuron num is 480
+presition is 95.94 %
+9594
+=======================================================
+learning finished
+neuron num is 490
+presition is 96.77 %
+9677
+=======================================================
+learning finished
+neuron num is 500
+presition is 96.38 %
+9638
+best nueron num is 0.21
+[ 9622.  9644.  9478.  9635.  9588.  9581.  9653.  9625.  9577.  9607.
+  9539.  9625.  9622.  9567.  9597.  9605.  9524.  9590.  9610.  9554.
+  9680.  9634.  9428.  9577.  9453.  9619.  9661.  9574.  9595.  9635.
+  9563.  9622.  9590.  9604.  9560.  9638.  9621.  9623.  9594.  9677.
+  9638.]
